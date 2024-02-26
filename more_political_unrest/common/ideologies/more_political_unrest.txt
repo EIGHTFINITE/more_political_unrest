@@ -1,0 +1,10 @@
+﻿ideology_pro_slavery = {
+	icon = "gfx/interface/icons/ideology_icons/slaver.dds"
+	
+	lawgroup_slavery = {
+		law_slave_trade = approve
+		law_debt_slavery = approve
+		law_legacy_slavery = approve
+		law_slavery_banned = strongly_disapprove
+	}
+}
