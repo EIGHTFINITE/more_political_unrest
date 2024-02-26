@@ -35,5 +35,7 @@
 			months = very_long_modifier_time
 			is_decaying = yes
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

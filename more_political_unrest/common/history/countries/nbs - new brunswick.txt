@@ -26,5 +26,7 @@
 			set_interest_group_name = ig_anglican_church
 		}
 		add_taxed_goods = g:grain
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

@@ -44,5 +44,7 @@
 			value = 0
 		}
 		add_journal_entry = { type = je_warlord_china }
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

@@ -82,5 +82,7 @@
 				type = je_conquest_of_algeria
 			}
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }
