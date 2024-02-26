@@ -4,7 +4,7 @@
   "version" : "1.0",
   "supported_game_version" : "1.5.*",
   "short_description" : "",
-  "tags" : ["Balance","Economy And Buildings","Fixes","Gameplay","Interest Groups","Pops"],
+  "tags" : ["Balance","Cultures And Religions","Economy And Buildings","Fixes","Gameplay","Interest Groups","Pops"],
   "relationships" : [],
   "game_custom_data" : {
     "multiplayer_synchronized" : true
