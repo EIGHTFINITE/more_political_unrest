@@ -11,7 +11,5 @@
 		activate_law = law_type:law_isolationism
 
 		effect_native_conscription_11 = yes
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

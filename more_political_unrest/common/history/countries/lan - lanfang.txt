@@ -22,7 +22,5 @@
 			remove_ideology = ideology_moralist
 			add_ideology = ideology_buddhist_moralist
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

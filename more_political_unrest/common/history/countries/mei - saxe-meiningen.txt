@@ -12,7 +12,5 @@
 		ig:ig_devout = {
 			set_interest_group_name = ig_evangelical_church
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

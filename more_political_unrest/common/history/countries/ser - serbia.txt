@@ -9,7 +9,5 @@
 			remove_ideology = ideology_patriarchal
 			add_ideology = ideology_orthodox_patriarch
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

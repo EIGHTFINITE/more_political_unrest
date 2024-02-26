@@ -15,7 +15,7 @@
 		set_tax_level = high
 
 		add_modifier = {
-			name = modifier_french_independence_payments
+			name = modifier_french_independence_payments_4
 		}
 
 		ig:ig_devout = {
@@ -26,6 +26,6 @@
 			add_ruling_interest_group = yes
 		}
 
-		activate_law = law_type:law_legacy_slavery
+		add_journal_entry = { type = je_haitian_debt }
 	}
 }

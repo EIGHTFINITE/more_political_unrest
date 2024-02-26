@@ -37,7 +37,5 @@
 		ig:ig_intelligentsia = {
 			set_interest_group_name = ig_hawaiian_democrats
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

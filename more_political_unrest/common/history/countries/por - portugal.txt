@@ -26,7 +26,5 @@
 			set_ig_suppression = yes
 			set_interest_group_name = ig_catholic_church
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }
