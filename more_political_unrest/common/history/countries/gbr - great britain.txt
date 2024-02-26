@@ -73,5 +73,7 @@
 		}
 
 		add_company = company_type:company_gwr
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

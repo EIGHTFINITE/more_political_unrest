@@ -51,5 +51,7 @@
 		}
 
 		add_company = company_type:company_krupp
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }
