@@ -54,5 +54,7 @@
 		company:company_krupp = {
 			set_company_establishment_date = 1807.1.1
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

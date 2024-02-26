@@ -28,5 +28,7 @@
 		ig:ig_devout = {
 			set_ig_bolstering = yes
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

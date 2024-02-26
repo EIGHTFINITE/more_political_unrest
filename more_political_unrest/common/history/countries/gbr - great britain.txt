@@ -76,5 +76,7 @@
 		company:company_gwr = {
 			set_company_establishment_date = 1833.1.21
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }
