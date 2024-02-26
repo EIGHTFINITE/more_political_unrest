@@ -8,7 +8,5 @@
 		activate_law = law_type:law_isolationism
 		activate_law = law_type:law_right_of_assembly
 		effect_native_conscription_12 = yes
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

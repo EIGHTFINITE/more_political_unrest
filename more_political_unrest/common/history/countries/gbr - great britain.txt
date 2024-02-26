@@ -58,17 +58,20 @@
 			institution = institution_police
 			level = 1
 		}
-	
-		ig:ig_landowners = { 
-			set_interest_group_name = ig_landed_gentry
-		}
-		
-		ig:ig_devout = { 
-			set_interest_group_name = ig_anglican_church
-		}
 
 		add_journal_entry = { type = je_victoria }
+		if = {
+			limit = {
+				has_dlc_feature = rp1_content
+			}
+			add_journal_entry = { type = je_aberdeen_act }
+		}
 
-		activate_law = law_type:law_legacy_slavery
+		add_modifier = {
+			name = brazilian_slave_trade_modifier
+			months = 600 # 50 Years
+		}
+
+		add_company = company_type:company_gwr
 	}
 }
