@@ -51,5 +51,7 @@
 			set_ig_bolstering = yes
 			set_interest_group_name = ig_evangelical_church
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }
