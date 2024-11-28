@@ -280,8 +280,9 @@ law_legacy_slavery = {
 
 	# no need to add disallowing_laws here since it can only be enacted from Slave Trade
 	
-	unlocking_laws = {
-		law_slave_trade
+	disallowing_laws = {
+		law_multicultural
+		law_affirmative_action
 	}
 	
 	on_activate = {

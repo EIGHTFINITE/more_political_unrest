@@ -255,9 +255,8 @@ law_cultural_exclusion = {
 	
 	progressiveness = 25
 	
-	unlocking_laws = {
-		law_slavery_banned
-		law_debt_slavery
+	disallowing_laws = {
+		law_slave_trade
 	}
 	
 	on_enact = {
