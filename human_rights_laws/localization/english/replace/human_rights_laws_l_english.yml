@@ -1,0 +1,7 @@
+﻿l_english:
+ ideology_anti_slavery:0 "Pro-$human_rights$"
+ ideology_pro_slavery:0 "Anti-$human_rights$"
+ lawgroup_slavery:0 "$human_rights$"
+ law_slavery_banned:0 "$human_rights$"
+ law_legacy_slavery:0 "Citizen Rights"
+ law_legacy_slavery_desc:0 "All citizens are protected from being enslaved but those entering the country receive no such protections."
