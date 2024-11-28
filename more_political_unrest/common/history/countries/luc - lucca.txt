@@ -6,5 +6,7 @@
 		activate_law = law_type:law_religious_schools
 		
 		set_tariffs_import_priority = g:silk
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

@@ -83,5 +83,7 @@
 			set_company_establishment_date = 1746.1.1
 			set_company_state_region = s:STATE_ALSACE_LORRAINE
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

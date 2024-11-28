@@ -9,5 +9,7 @@
 		activate_law = law_type:law_peasant_levies
 
 		effect_native_conscription_10 = yes
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

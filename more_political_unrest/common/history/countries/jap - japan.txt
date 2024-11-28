@@ -49,5 +49,7 @@
 			name = hokkaido_colonization_modifier
 			months = very_long_modifier_time
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

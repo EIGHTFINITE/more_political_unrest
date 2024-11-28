@@ -13,5 +13,7 @@
 		activate_law = law_type:law_land_based_taxation
 
 		add_taxed_goods = g:grain
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }

@@ -26,5 +26,7 @@
 			}
 			add_journal_entry = { type = je_caucasian_war }
 		}
+
+		activate_law = law_type:law_legacy_slavery
 	}
 }
