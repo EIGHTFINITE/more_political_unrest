@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:UNT = {
+	c:UNT ?= {
 		effect_starting_technology_tier_4_tech = yes
 
 		activate_law = law_type:law_monarchy
@@ -12,7 +12,5 @@
 		activate_law = law_type:law_mercantilism
 		activate_law = law_type:law_land_based_taxation	
 		activate_law = law_type:law_homesteading	
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:UCA = {
+	c:UCA ?= {
 		set_next_election_date = 1837.4.9
 		
 		effect_starting_technology_tier_3_tech = yes
@@ -33,7 +33,5 @@
 		add_journal_entry = {
 			type = central_america_falls_apart
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

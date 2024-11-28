@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:HAW = {
+	c:HAW ?= {
 		effect_starting_technology_tier_4_tech = yes
 
 		add_technology_researched = egalitarianism
@@ -25,7 +25,5 @@
 		ig:ig_landowners = {
 			add_ruling_interest_group = yes
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

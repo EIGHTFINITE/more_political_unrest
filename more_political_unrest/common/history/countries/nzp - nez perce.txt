@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:NZP = {
+	c:NZP ?= {
 		effect_starting_technology_tier_6_tech = yes
 		
 		effect_starting_politics_traditional = yes
@@ -9,7 +9,5 @@
 		activate_law = law_type:law_peasant_levies
 
 		effect_native_conscription_10 = yes
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }

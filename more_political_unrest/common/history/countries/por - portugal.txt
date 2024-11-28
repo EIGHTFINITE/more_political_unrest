@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:POR = {
+	c:POR ?= {
 		effect_starting_technology_tier_3_tech = yes
 		effect_starting_politics_conservative = yes
 		
@@ -22,10 +22,9 @@
 
 		set_tax_level = medium
 
-		ig:ig_devout = {
-			set_ig_suppression = yes
-		}
-
-		activate_law = law_type:law_legacy_slavery
+		set_institution_investment_level = {
+			institution = institution_colonial_affairs
+			level = 2
+		}			
 	}
 }

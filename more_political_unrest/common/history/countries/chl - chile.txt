@@ -1,5 +1,5 @@
 ﻿COUNTRIES = {
-	c:CHL = {
+	c:CHL ?= {
 		# presidential election did occur around this date but only uncomment if giving Chile a voting franchise
 		# set_next_election_date = 1836.3.15
 		
@@ -37,7 +37,5 @@
 		add_modifier = {
 			name = age_of_caudillos_modifier
 		}
-
-		activate_law = law_type:law_legacy_slavery
 	}
 }
