@@ -2,7 +2,7 @@
   "name" : "human_rights_laws",
   "id" : "",
   "version" : "1.0",
-  "supported_game_version" : "1.5.*",
+  "supported_game_version" : "1.8.*",
   "short_description" : "",
   "tags" : ["Balance","Cultures And Religions","Economy And Buildings","Fixes","Gameplay","Interest Groups","Pops"],
   "relationships" : [],
