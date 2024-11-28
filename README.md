@@ -1,5 +1,5 @@
-# More Political Unrest at Game Start
+# Human Rights Laws
 
-Replace command:
+Replace command for updating the mod:
 
 * `\n	}\n}`, `\n\n		activate_law = law_type:law_key_name\n	}\n}`
