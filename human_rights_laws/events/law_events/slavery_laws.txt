@@ -599,12 +599,6 @@ slavery_law_events.7 = {
 			name = modifier_slavery_whitewashing
 			months = long_modifier_time
 		}
-		every_interest_group = {
-			limit = {
-				has_ideology = ideology:ideology_pro_slavery
-			}
-			remove_ideology = ideology_pro_slavery
-		}
 	}
 	option = { 
 		name = slavery_law_events.7.b
@@ -617,12 +611,6 @@ slavery_law_events.7 = {
 		add_radicals = {
 			value = small_radicals
 			strata = upper
-		}
-		every_interest_group = {
-			limit = {
-				has_ideology = ideology:ideology_pro_slavery
-			}
-			remove_ideology = ideology_pro_slavery
 		}
 	}
 }
