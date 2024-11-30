@@ -1,6 +1,6 @@
 ﻿l_korean:
- ideology_anti_slavery:0 "$human_rights$ 옹호"
- ideology_pro_slavery:0 "$human_rights$ 반대"
+ ideology_anti_slavery:0 "친노$human_rights$"
+ ideology_pro_slavery:0 "반노$human_rights$"
  lawgroup_slavery:0 "$human_rights$"
  law_slavery_banned:0 "$human_rights$"
  law_legacy_slavery:0 "$lawgroup_citizenship$"
