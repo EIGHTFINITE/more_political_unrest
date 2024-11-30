@@ -1,4 +1,6 @@
 ﻿l_polish:
+ ideology_anti_slavery:0 "Pro-$human_rights$"
+ ideology_pro_slavery:0 "Anty-$human_rights$"
  lawgroup_slavery:0 "$human_rights$"
  law_slavery_banned:0 "$human_rights$"
  law_legacy_slavery:0 "$lawgroup_citizenship$"

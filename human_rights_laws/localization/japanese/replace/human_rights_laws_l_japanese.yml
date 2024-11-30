@@ -1,4 +1,6 @@
 ﻿l_japanese:
+ ideology_anti_slavery:0 "$human_rights$擁護派"
+ ideology_pro_slavery:0 "$human_rights$反対派"
  lawgroup_slavery:0 "$human_rights$"
  law_slavery_banned:0 "$human_rights$"
  law_legacy_slavery:0 "$lawgroup_citizenship$"

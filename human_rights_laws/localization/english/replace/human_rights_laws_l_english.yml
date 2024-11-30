@@ -1,7 +1,9 @@
 ﻿l_english:
  ideology_anti_slavery:0 "Pro-$human_rights$"
+ ideology_anti_slavery_desc:0 "#lore This group abhors the inhumane treatment of others and views it as barbarous.#!"
  ideology_pro_slavery:0 "Anti-$human_rights$"
+ ideology_pro_slavery_desc:0 "#lore This group believes human rights will undermine the functioning of our society.#!"
  lawgroup_slavery:0 "$human_rights$"
  law_slavery_banned:0 "$human_rights$"
  law_legacy_slavery:0 "Citizen Rights"
- law_legacy_slavery_desc:0 "Citizens are protected from being enslaved but those entering the country receive no such protections."
+ law_legacy_slavery_desc:0 "Citizens may not become another's property but those entering the country receive no such protections."
