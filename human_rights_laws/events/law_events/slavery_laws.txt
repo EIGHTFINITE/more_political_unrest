@@ -540,7 +540,7 @@ slavery_law_events.7 = {
 
 	duration = 3
 
-	cooldown = { months = long_modifier_time }
+	cooldown = { months = stupidly_long_modifier_time }
 
 	event_image = {
 		video = "southamerica_aristocrats"
@@ -554,6 +554,9 @@ slavery_law_events.7 = {
 		has_law = law_type:law_slavery_banned
 		any_interest_group = {
 			has_ideology = ideology:ideology_pro_slavery
+		}
+		any_scope_character = {
+			has_ideology = ideology:ideology_slaver
 		}
 		OR = {	
 			NOT = {
@@ -599,6 +602,12 @@ slavery_law_events.7 = {
 			name = modifier_slavery_whitewashing
 			months = long_modifier_time
 		}
+		every_scope_character = {
+			limit = {
+				has_ideology = ideology:ideology_slaver
+			}
+			set_ideology = ideology:ideology_moderate
+		}
 	}
 	option = { 
 		name = slavery_law_events.7.b
@@ -611,6 +620,12 @@ slavery_law_events.7 = {
 		add_radicals = {
 			value = small_radicals
 			strata = upper
+		}
+		every_scope_character = {
+			limit = {
+				has_ideology = ideology:ideology_slaver
+			}
+			set_ideology = ideology:ideology_moderate
 		}
 	}
 }
