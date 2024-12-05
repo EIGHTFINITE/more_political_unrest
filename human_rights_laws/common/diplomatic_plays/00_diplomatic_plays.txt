@@ -90,14 +90,6 @@ dp_ban_slavery = {
 			NOT = { is_country_type = decentralized }
 			NOT = { is_subject_of = root }
 		}	
-		custom_tooltip = {
-			text = WARGOAL_COUNTRY_HAS_SLAVERY
-			scope:target_country = {
-				any_scope_state = {
-					is_slave_state = yes
-				}
-			}
-		}
 	}
 
 	ai_acceptance_max = 90
@@ -1207,6 +1199,29 @@ dp_humiliation = {
 	possible = {	
 		aggressive_diplomatic_plays_permitted = yes		
 	}
+	
+	on_weekly_pulse = {}
+	
+	on_war_begins = {}
+
+	on_war_end = {}
+}
+
+dp_sepoy_mutiny = {
+	war_goal = annex_country
+
+	allow_negotiated_peace = no
+	add_infamy_for_starting_initiator_wargoals = no
+	
+	texture = "gfx/interface/icons/war_goals/annex_country.dds"
+	
+	selectable_in_lens = {
+		always = no
+	}
+	
+	possible = {}
+	
+	ai_acceptance_max = 75
 	
 	on_weekly_pulse = {}
 	
